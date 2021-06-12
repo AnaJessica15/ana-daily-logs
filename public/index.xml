@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Daily-logs Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My Daily-logs Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jun 2021 12:20:11 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Daily-logs</title>
+      <link>http://example.org/posts/daily-logs-ana/</link>
+      <pubDate>Sat, 12 Jun 2021 12:20:11 +0530</pubDate>
+      
+      <guid>http://example.org/posts/daily-logs-ana/</guid>
+      <description>conda create -n ml python=3.8 conda activate ml pip install mlflow pip install sklearn cd sklearn_elasticnet_wine, python3 train.py 0.5 0.3 mlflow ui</description>
+    </item>
+    
+  </channel>
+</rss>
